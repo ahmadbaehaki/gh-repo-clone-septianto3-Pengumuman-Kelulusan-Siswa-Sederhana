@@ -14,7 +14,7 @@
 	        ?>
                 //
   <meta charset="utf-8" />
-  <title>Website Pengumuman Hasil UN Tahun 2017</title>
+  <title>Website Pengumuman Kelulusan Tahun 2023</title>
   <meta name="description" content="web, website, pengumuman, hasil, un, uncbt, tahun, 2017" />
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
   <link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
@@ -34,9 +34,9 @@
 <body>
   <section id="content" class="m-t-lg wrapper-md animated fadeInUp">
 	<center><img src="logo.png" /></center>
-	<a class="nav-brand" href="#"><b>SMK Wachid Hasyim 2 Surabaya</b></a>
-    <a class="nav-brand" href="#">Website Pengumuman Hasil Ujian Nasional</a>
-	<a class="nav-brand" href="#">Tahun Pelajaran 2016-2017</a>
+	<a class="nav-brand" href="#"><b>UPTD SMP Negeri 4 Banjar</b></a>
+    <a class="nav-brand" href="#">Pengumuman Kelulusan</a>
+	<a class="nav-brand" href="#">Tahun Pelajaran 2022-2023</a>
     <div class="row m-n">
       <div class="col-md-4 col-md-offset-4 m-t-lg">
         <section class="panel">
@@ -45,7 +45,7 @@
           </header>
           <form class="panel-body" method="post" action="#">
             <div class="form-group">
-              <label class="control-label">Masukkan Nomor UN Anda</label>
+              <label class="control-label">Masukkan NISN Anda</label>
               <input type="text" name="no" placeholder="05-01-128-212-2" class="form-control" required>
             </div>
             <div class="line line-dashed"></div>
